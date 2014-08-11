@@ -1,7 +1,7 @@
 ## URL
 http://masaponto.github.io/
 
-This site uses Twitter Bootstrap, Font Awesome, and theme from Boostwatch.
+This site uses Twitter Bootstrap, Font Awesome, and theme from Bootswatch.
 
 ## License
 - This software uses Bootsrap, which is licensed by the MIT License.
