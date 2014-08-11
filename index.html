@@ -5,56 +5,73 @@
   <head>
     <meta charset="utf-8">
 
-    <title>MyPage</title>
+    <title>Masaponto's WebPage</title>
 
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="http://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/flatly/bootstrap.min.css" rel="stylesheet">
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="sticky-footer.css" rel="stylesheet">
   </head>
 
 
   <body>
-    <nav class="navbar navbar-default" role="navigation">
 
-      <div class="container ">
+    <div id="wrap">
+      <nav class="navbar navbar-default" role="navigation">
 
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-	    <span class="icon-bar"></span>
-	    <span class="icon-bar"></span>
-	    <span class="icon-bar"></span>
-	    <span class="icon-bar"></span>
-	  </button>
-	  <a class="navbar-brand" href="#">Masaponto's WebPage</a>
+	<div class="container ">
+
+	  <div class="navbar-header">
+	    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	    </button>
+	    <a class="navbar-brand" href="#">Masaponto's WebPage</a>
+	  </div>
+
+	  <!-- Collect the nav links, forms, and other content for toggling -->
+	  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	    <ul class="nav navbar-nav">
+              <li class="active"><a href="#"><i class="glyphicon glyphicon-home"></i> Home</a></li>
+              <li><a href="profile.html"><i class="glyphicon glyphicon-user"></i> Profile</a></li>
+	      <li><a href="http://masaponto.hatenablog.com/"><i class="glyphicon glyphicon-pencil"></i> Blog</a></li>
+	      <li><a href="works.html"><i class="fa fa-laptop"></i> Works</a></li>
+              <li><a href="links.html"><i class="glyphicon glyphicon-globe"></i> Links</a></li>
+	      <li><a href="contacts.html"><i class="glyphicon glyphicon-comment"></i> Contacts</a></li>
+	    </ul>
+	  </div><!-- /.navbar-collapse -->
+
 	</div>
 
-	<!-- Collect the nav links, forms, and other content for toggling -->
-	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-	  <ul class="nav navbar-nav">
-            <li class="active"><a href="#"><i class="glyphicon glyphicon-home"></i> Home</a></li>
-            <li><a href="profile.html"><i class="glyphicon glyphicon-user"></i> Profile</a></li>
-	    <li><a href="http://masaponto.hatenablog.com/"><i class="glyphicon glyphicon-pencil"></i> Blog</a></li>
-	    <li><a href="works.html"><i class="fa fa-laptop"></i> Works</a></li>
-            <li><a href="links.html"><i class="glyphicon glyphicon-globe"></i> Links</a></li>
-	    <li><a href="contacts.html"><i class="glyphicon glyphicon-comment"></i> Contacts</a></li>
-	  </ul>
-	</div><!-- /.navbar-collapse -->
+      </nav>
 
+
+      <div class="container">
+	<div class="jumbotron" id="profile">
+	  <h1>Masaponto's webpage</h1>
+	  <p>Bootstrapで適当に作ったサイトだよ</p>
+	  <p><a href="https://github.com/masaponto/masaponto.github.io">sourse</a></p>
+	</div>
       </div>
 
-    </nav>
+    </div>
 
+    <!-- footer -->
+    <div id="footer">
+      <div class="container">
 
-    <div class="container">
-      <div class="jumbotron" id="profile">
-	<h1>Masaponto's webpage</h1>
-	<p>Bootstrapで適当に作ったサイトだよ</p>
-	<p><a href="https://github.com/masaponto/masaponto.github.io">sourse</a></p>
+	<p class="navbar-text pull-right">
+          Copyright (C) masaponto 2014
+        </p>
+
       </div>
     </div>
+    <!-- /footer -->
 
 
     <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
