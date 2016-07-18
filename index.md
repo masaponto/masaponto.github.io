@@ -43,7 +43,7 @@ $ pandoc -s -t html5 -c css/github.css -o index.html index.md
 - Haskell
 
 ## Activities
-- Rakuten, Inc. 温泉 Hackason 2014
+- Rakuten, Inc. 温泉 Hackathon 2014
 - COOKPAD Inc. summer internship 2015 Engineer
 - Yahoo! JAPAN Corporation spring internship 2016 Ad-Technology
 
