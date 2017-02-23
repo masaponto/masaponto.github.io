@@ -55,6 +55,7 @@ $ pandoc -s -t html5 -c css/github.css -o index.html index.md
 ## Interests
 - Machine Learning / Neural Network 
 - Artificial Intelligence
+- Web / Android application development
   
 ## Activities
 - Rakuten, Inc. 温泉 Hackathon 2014
@@ -62,6 +63,7 @@ $ pandoc -s -t html5 -c css/github.css -o index.html index.md
 - Yahoo! JAPAN Corporation spring internship 2016 Ad-Technology
 - The 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2016)
 - The 2016 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2016)
+- NTT docomo Hackathon 新サービス創造ハッカソン 2017/02
 
 ## Contact
 - masaponto@gmail.com
