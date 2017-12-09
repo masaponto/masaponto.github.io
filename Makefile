@@ -2,7 +2,6 @@ all: html
 
 MD_FILE := index.md
 HTML_FILE := index.html
-TEMPLATE_FILE := mapbox-base.html
 
 .PHONY: html clean
 
