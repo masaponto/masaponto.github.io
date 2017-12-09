@@ -1,0 +1,17 @@
+header h1 {
+    text-align: center;
+}
+
+body {
+     margin: 0 auto;
+     width:700px;
+}
+
+#ponto {
+    display: block;
+    margin:0 auto
+}
+
+body > h2 {
+    margin-top: 50px;
+}
