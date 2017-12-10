@@ -25,3 +25,8 @@ footer {
     height: 30px;
     text-align: right;
 }
+
+body > ul li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

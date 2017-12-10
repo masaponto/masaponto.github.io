@@ -26,10 +26,10 @@ alt="It's me!" title="ponto" width="128" height="128" id="ponto"/>
   
 ## Activities
 - Rakuten, Inc. 温泉 Hackathon 2014
-- COOKPAD Inc. summer internship 2015 Engineer
-- Yahoo! JAPAN Corporation spring internship 2016 Ad-Technology
-- NTT docomo Hackathon 新サービス創造ハッカソン 2017/02
-- SONY "Go for it" Hackathon 2017/02
+- COOKPAD Inc. Summer Internship 2015 Engineer
+- Yahoo! JAPAN Corporation Spring Internship 2016 Ad-Technology
+- NTT docomo Hackathon 新サービス創造ハッカソン, Feb. 2017
+- SONY "Go for it" Hackathon, Feb. 2017
 
 ## Contact
 - masaponto[at]gmail.com
