@@ -32,6 +32,12 @@ body > ul li {
 }
 
 /* responsive */
+@media screen and (max-width: 1024px) {
+    body {
+        width: 80%;
+    }
+}
+
 @media screen and (max-width: 960px) {
     body {
         width: 90%;
