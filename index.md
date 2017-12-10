@@ -1,7 +1,6 @@
 %Masaponto
 
-<img src="./img/ponto.png"
-alt="It's me!" title="ponto" width="128" height="128" id="ponto"/>
+<img src="./img/ponto.png" alt="It's me!" title="ponto" width="128" height="128" id="ponto"/>
 
 ## Github
 <div class="calendar">
