@@ -1,5 +1,6 @@
 header h1 {
     text-align: center;
+    color: #00496e;
 }
 
 body {
@@ -14,4 +15,13 @@ body {
 
 body > h2 {
     margin-top: 50px;
+    color: #00496e;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 0.8em;
+    width: 100%;
+    height: 30px;
+    text-align: right;
 }

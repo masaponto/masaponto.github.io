@@ -8,7 +8,8 @@ HTML_FILE := index.html
 html: $(MD_FILE) css/style.css
 	docker run --rm -t -i -v `pwd`:/workspace \
 	masaponto/pandoc $(MD_FILE) -o $(HTML_FILE)  \
-	--standalone -s -t html5 --smart -c css/style.css
+	--standalone -s -t html5 --smart -c css/style.css \
+	-A after_body.html
 
 clean:
 	rm -f $(HTML_FILE)
