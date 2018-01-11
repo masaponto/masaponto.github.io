@@ -16,11 +16,8 @@
 - <i class="fas fa-pen-square"></i> [Qiita](http://qiita.com/masaponto)
 - <i class="fas fa-file"></i> [Speacker Deck](https://speakerdeck.com/masaponto)
 - <i class="fab fa-instagram"></i> [Instagram](https://www.instagram.com/masaponto/)
+- <i class="fab fa-amazon"></i> [Amazon wish list](https://www.amazon.co.jp/registry/wishlist/MPK7GWWUR4RT)
 
-## Poject Euler
-
-![](https://projecteuler.net/profile/masaponto.png)
- 
 ## Interests
 - Computer Science
 - Artificial Intelligence / Machine Learning / Neural Network 
