@@ -1,6 +1,39 @@
-%Masaponto
+% Masatoponto's web page
 
-<img src="./img/ponto.png" alt="It's me!" title="ponto" width="128" height="128" id="ponto"/>
+<div id="profile">
+<img src="./img/ponto.png" alt="It's me!" title="ponto" width="192" height="192"/>
+<div id="about">
+<p>Hello, I am <b>masaponto</b>, a graduate student of computer science in Japan. My major is machine learning.</p>  
+<table cellspacing="25">
+<tbody>
+<tr><td>
+<a href=https://github.com/masaponto><i class="fab fa-github"></i></a>
+</td>
+<td>
+<a href=https://gist.github.com/masaponto><i class="fab fa-github-alt"></i></a>
+</td>
+<td>
+<a href=https://twitter.com/masaponto><i class="fab fa-twitter"></i></a>
+</td>
+<td>
+<a href=http://masaponto.hatenablog.com><i class="hatena"></i></a>
+</td>
+<td>
+<a href=https://qiita.com/masaponto><i class="qiita"></i></a>
+</td>
+<td>
+<a href=https://speakerdeck.com/masaponto><i class="fas fa-file"></i></a>
+</td>
+<td>
+<a href=https://www.instagram.com/masaponto><i class="fab fa-instagram"></i></a>
+</td>
+<td>
+<a href=https://www.amazon.co.jp/registry/wishlist/MPK7GWWUR4RT><i class="fab fa-amazon"></i></a>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
 
 ## Github
 <div class="calendar">
@@ -8,21 +41,6 @@
 <p class="spinner-text monospace">Crunching <a href="https://github.com/masaponto">@masaponto</a>'s contributions just for you.</p>
 </div>
 
-## Links
-- <i class="fab fa-github"></i> [Github](https://github.com/masaponto)
-- <i class="fab fa-github-alt"></i> [Gist](https://gist.github.com/masaponto)
-- <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/masaponto)
-- <i class="fas fa-book"></i> [Blog (Japanese)](http://masaponto.hatenablog.com)
-- <i class="fas fa-pen-square"></i> [Qiita](http://qiita.com/masaponto)
-- <i class="fas fa-file"></i> [Speacker Deck](https://speakerdeck.com/masaponto)
-- <i class="fab fa-instagram"></i> [Instagram](https://www.instagram.com/masaponto/)
-- <i class="fab fa-amazon"></i> [Amazon wish list](https://www.amazon.co.jp/registry/wishlist/MPK7GWWUR4RT)
-
-## Interests
-- Computer Science
-- Artificial Intelligence / Machine Learning / Neural Network 
-- Web / Android application development
-  
 ## Activities
 - Rakuten, Inc. 温泉 Hackathon 2014
 - COOKPAD Inc. Summer Internship 2015 Engineer

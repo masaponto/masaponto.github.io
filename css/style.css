@@ -8,9 +8,23 @@ body {
     width: 40%;
 }
 
-#ponto {
-    display: block;
-    margin: 0 auto;
+#profile {
+    margin-top: 50px;
+    display: -webkit-flex;
+    display: flex;
+}
+
+#profile > img {
+    margin-right:1.5rem;
+}
+
+#about > p {
+    font-size: 1.3em;
+    margin-bottom: 0;
+}
+
+#about > table {
+    text-align: center;
 }
 
 body > h2 {
@@ -20,7 +34,7 @@ body > h2 {
 
 footer {
     margin-top: 50px;
-    font-size: 0.8em;
+    font-size: 0.9em;
     width: 100%;
     height: 30px;
     text-align: right;
@@ -31,15 +45,96 @@ body > ul li {
     padding-bottom: 3px;
 }
 
+.fa-twitter {
+  color: #1da1f2;
+}
+
+.fa-github, .fa-github-alt, .fa-amazon{
+  color: #24292e;
+}
+
+.fa-instagram {
+  color: #d10869;
+}
+
+.fa-file {
+    color: #3D9565;
+}
+
+.hatena {
+    width: 1.5em;
+    height: 1.5em;
+    content: url('../img/hatenablog-logo.svg');
+}
+
+.qiita {
+    width: 1em;
+    height: 1em;
+    content: url('../img/qiita-favicon.png');
+}
+
 /* responsive */
 @media screen and (max-width: 1024px) {
     body {
         width: 80%;
     }
+
+    body > h1 {
+        text-align:center;
+    }
+
+    #profile {
+        margin: 0 auto;
+        flex-direction: column;
+        text-align:center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #profile > img {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    #about {
+        text-align: center;
+    }
+
+    #about > table {
+        display: inline-block;
+    }
+
 }
 
 @media screen and (max-width: 960px) {
     body {
         width: 90%;
     }
+
+    body > h1 {
+        text-align: center;
+    }
+
+    #profile {
+        width: 90%;
+        flex-direction: column;
+        text-align: center;
+        -webkit-align-items: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #profile > img {
+        margin: 0 auto;
+    }
+
+    #about {
+        text-align: center;
+    }
+
+    #about > table {
+        display: inline-block;
+    }
+
 }
