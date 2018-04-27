@@ -3,7 +3,7 @@
 <div id="profile">
 <img src="./img/ponto.png" alt="It's me!" title="ponto" width="192" height="192"/>
 <div id="about">
-<p>Hello, I am <b>masaponto</b>, a graduate student of computer science in Japan. My major is machine learning.</p>  
+<p>Hello, I am <b>masaponto</b>, a software engeneeer in Tokyo Japan. My major is machine learning.</p>  
 <table cellspacing="25">
 <tbody>
 <tr><td>
