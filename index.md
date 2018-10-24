@@ -6,7 +6,7 @@
 
 ## About
 Masaponto is a data science engineer in Tokyo Japan.  
-I like ArchLinux, Emacs, Dvorak keybord, and Python.
+He likes ArchLinux, Emacs, Dvorak keybord, and Python.
 
 ## Links
 - [Github](https://github.com/masaponto)
