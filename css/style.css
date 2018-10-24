@@ -1,5 +1,5 @@
 header h1 {
-    text-align: center;
+    font-size: 1.3em;
     color: #00496e;
 }
 
@@ -9,26 +9,19 @@ body {
 }
 
 #profile {
-    margin-top: 50px;
-    display: -webkit-flex;
-    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    text-align:center;
+    justify-content: center;
+    align-items: center;
 }
 
 #profile > img {
-    margin-right:1.5rem;
-}
-
-#about > p {
-    font-size: 1.3em;
-    margin-bottom: 0;
-}
-
-#about > table {
     text-align: center;
+    margin: 0 auto;
 }
 
 body > h2 {
-    margin-top: 50px;
     color: #00496e;
 }
 
@@ -45,33 +38,6 @@ body > ul li {
     padding-bottom: 3px;
 }
 
-.fa-twitter {
-  color: #1da1f2;
-}
-
-.fa-github, .fa-github-alt, .fa-amazon{
-  color: #24292e;
-}
-
-.fa-instagram {
-  color: #d10869;
-}
-
-.fa-file {
-    color: #3D9565;
-}
-
-.hatena {
-    width: 1.5em;
-    height: 1.5em;
-    content: url('../img/hatenablog-logo.svg');
-}
-
-.qiita {
-    width: 1em;
-    height: 1em;
-    content: url('../img/qiita-favicon.png');
-}
 
 /* responsive */
 @media screen and (max-width: 1024px) {
@@ -94,14 +60,6 @@ body > ul li {
     #profile > img {
         text-align: center;
         margin: 0 auto;
-    }
-
-    #about {
-        text-align: center;
-    }
-
-    #about > table {
-        display: inline-block;
     }
 
 }
@@ -127,14 +85,6 @@ body > ul li {
 
     #profile > img {
         margin: 0 auto;
-    }
-
-    #about {
-        text-align: center;
-    }
-
-    #about > table {
-        display: inline-block;
     }
 
 }
