@@ -9,12 +9,12 @@ Masaponto is a data science engineer in Tokyo Japan.
 He likes ArchLinux, Emacs, Dvorak keybord, and Python.
 
 ## Links
-- [Github](https://github.com/masaponto)
+- [GitHub](https://github.com/masaponto)
 - [Gist](https://gist.github.com/masaponto)
 - [Twiter](https://twitter.com/masaponto)
 - [Blog](http://masaponto.hatenablog.com)
 - [Qiita](https://qiita.com/masaponto)
-- [Speakerdeck](https://speakerdeck.com/masaponto)
+- [SpeakerDeck](https://speakerdeck.com/masaponto)
 - [Kaggle](https://www.kaggle.com/masaponto)
 - [Instagram](https://www.instagram.com/masaponto)
 - [Amazon Wishlist](https://www.amazon.co.jp/registry/wishlist/MPK7GWWUR4RT)
