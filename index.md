@@ -19,6 +19,10 @@ He likes ArchLinux, Emacs, Dvorak keybord, and Python.
 - [Instagram](https://www.instagram.com/masaponto)
 - [Amazon Wishlist](https://www.amazon.co.jp/registry/wishlist/MPK7GWWUR4RT)
 
+## Visual profile
+- [sourcerer.io](https://sourcerer.io/masaponto)
+- [forkwell](https://portfolio.forkwell.com/@masaponto)
+
 ## Activities
 - Rakuten, Inc. 温泉 Hackathon 2014
 - COOKPAD Inc. Summer Internship 2015 Engineer
