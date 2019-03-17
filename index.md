@@ -25,10 +25,10 @@ He likes ArchLinux, Emacs, Dvorak keybord, and Python.
 
 ## Activities
 - Rakuten, Inc. 温泉 Hackathon 2014
-- COOKPAD Inc. Summer Internship 2015 Engineer
-- Yahoo! JAPAN Corporation Spring Internship 2016 Ad-Technology
-- NTT DOCOMO, Inc. Hackathon 新サービス創造ハッカソン, Feb. 2017
-- SONY "Go for it" Hackathon, Feb. 2017
+- COOKPAD Inc. Summer Internship 2015 
+- Yahoo! JAPAN Corporation Spring Internship Ad-Technology 2016 
+- NTT DOCOMO, Inc. 新サービス創造ハッカソン 2017
+- SONY "Go for it" Hackathon 2017
 
 ## Contact
 - masaponto[at]gmail.com
