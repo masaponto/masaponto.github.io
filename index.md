@@ -4,9 +4,7 @@
 <img src="./img/ponto.png" alt="It's me!" title="ponto" width="192" height="192"/>
 </div>
 
-## About
-Masaponto is a data science engineer in Tokyo Japan.  
-He likes ArchLinux, Emacs, Dvorak keybord, and Python.
+I am a data science engineer.
 
 ## Links
 - [GitHub](https://github.com/masaponto)
@@ -22,13 +20,6 @@ He likes ArchLinux, Emacs, Dvorak keybord, and Python.
 ## Visual profile
 - [sourcerer.io](https://sourcerer.io/masaponto)
 - [forkwell](https://portfolio.forkwell.com/@masaponto)
-
-## Activities
-- Rakuten, Inc. 温泉 Hackathon 2014
-- COOKPAD Inc. Summer Internship 2015 
-- Yahoo! JAPAN Corporation Spring Internship Ad-Technology 2016 
-- NTT DOCOMO, Inc. 新サービス創造ハッカソン 2017
-- SONY "Go for it" Hackathon 2017
 
 ## Contact
 - masaponto[at]gmail.com
