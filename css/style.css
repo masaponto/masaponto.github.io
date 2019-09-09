@@ -1,7 +1,7 @@
-a:link { color: #4d4d4d; }
-a:visited { color: #4d4d4d; }
+a:link { color: #999999; }
+a:visited { color: #999999; }
 a:hover { color:  #0088cc; }
-a:active { color:  #4d4d4d; }
+a:active { color: #999999;}
 a {
     text-decoration: none;
 }
@@ -45,6 +45,7 @@ header h1 {
     text-align: center;
     font-size: 1.2em;
     font-weight: normal;
+    color: #4d4d4d;
 }
 
 
