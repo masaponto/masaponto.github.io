@@ -1,4 +1,4 @@
-% Masatoponto's web page
+% Masaponto's web page
 
 <div id="profile">
 <img src="./img/ponto.png" alt="It's me!" title="ponto"/>
@@ -15,7 +15,7 @@ Machine learning engineer
 - [GitHub](https://github.com/masaponto)
 - [Gist](https://gist.github.com/masaponto)
 - [Kaggle](https://www.kaggle.com/masaponto)
-- [Twiter](https://twitter.com/masaponto)
+- [Twitter](https://twitter.com/masaponto)
 - [Blog](http://masaponto.hatenablog.com)
 - [Qiita](https://qiita.com/masaponto)
 - [SpeakerDeck](https://speakerdeck.com/masaponto)
@@ -27,5 +27,5 @@ Machine learning engineer
 - masaponto[at]gmail.com
 
 <footer>
-&copy; 2017 masaponto.
+&copy; 2017-2019 masaponto.
 </footer>
