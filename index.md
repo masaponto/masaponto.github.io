@@ -21,7 +21,6 @@ Machine learning engineer
 - [SpeakerDeck](https://speakerdeck.com/masaponto)
 - [Amazon Wishlist](https://www.amazon.co.jp/registry/wishlist/MPK7GWWUR4RT)
 - [sourcerer.io](https://sourcerer.io/masaponto)
-- [forkwell](https://portfolio.forkwell.com/@masaponto)
 
 ## Contact
 - masaponto[at]gmail.com
